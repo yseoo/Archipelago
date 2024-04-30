@@ -1,10 +1,10 @@
-# Island City Builder
+# Archipelago
 
 ![Island City Builder](archipellago.png)
 
 ## Project Overview
 
-Island City Builder is an application developed to design and simulate island cities interconnected by bridges. Each city can incorporate three distinct types of buildings: houses for residents, production sites for workplaces, and transport nodes to enhance connectivity. The application allows users to create, save, and load these city layouts, checking for logical consistency.
+Archipelago is an application developed to design and simulate island cities interconnected by bridges. Each city can incorporate three distinct types of buildings: houses for residents, production sites for workplaces, and transport nodes to enhance connectivity. The application allows users to create, save, and load these city layouts, checking for logical consistency.
 
 ## Features
 
