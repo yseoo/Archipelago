@@ -30,7 +30,6 @@ To run the Island City Builder, follow these steps:
 ```
 2. **Compile the Application:**
 ```bash
-   cd compil/
    make
 ```
 3. **Run the Application:**
