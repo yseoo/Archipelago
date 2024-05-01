@@ -25,7 +25,7 @@ To run the Island City Builder, follow these steps:
 
 1. **Clone the Repository:**
 ```bash
-    git clone [repository-url](https://github.com/yseoo/Archipelago)
+    git clone [repository-url]
     cd Archipelago
 ```
 2. **Compile the Application:**
